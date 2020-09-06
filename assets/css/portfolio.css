@@ -87,8 +87,8 @@ input, select, textarea {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
-		line-height: 1.75em;
-		color: #888;
+		line-height: 1.3em;
+		color: rgb(112, 112, 112);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
