@@ -2552,3 +2552,9 @@ input, select, textarea {
 				}
 
 	}
+
+/* own rules */
+
+#footer {
+  display: none;
+}
