@@ -2631,3 +2631,13 @@ input, select, textarea {
 				}
 
 	}
+
+/* own rules */
+
+.über-uns-text {
+  font-size: 15pt;
+  font-weight: 300;
+  line-height: 1.55em;
+  text-align: left;
+}
+
